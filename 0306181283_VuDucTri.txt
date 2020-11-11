@@ -1,0 +1,9 @@
+Nộp bài: 
+1. Yêu cầu: Username phải có cú pháp username-CDTH18PMC
+  ví dụ: NguyenVanA-CDTH18PMC
+2. Tạo repository đầu tiên, đặt tên là my-first-project
+3. Upload Code lên repo đầu tiên này (có thể upload source code project môn học)
+4. Set repo trên thành public
+5. Vào link nộp bài: https://forms.gle/XgF1mFKCuNqQvsB39, submit url tài khoản github của bạn, ví dụ:
+https://github.com/nguyenvana
+6. Timeline: 15h30, 11.11.2020, Lưu ý: NỘP BÀI TẬP CÁ NHÂN
